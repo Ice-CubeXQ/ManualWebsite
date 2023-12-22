@@ -233,7 +233,7 @@
     e.dataset.langBtn === s && e.classList.add("_active");
   }),
     (function () {
-      switch ((console.log(l), l)) {
+      switch (l) {
         case "/home.html":
         default:
           d = u;
